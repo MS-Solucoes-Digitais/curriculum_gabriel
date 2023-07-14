@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "PhotoShop",
-        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/photoshop.svg"
+        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/photoshop.png"
       },
       {
         "name": "Premiere",
-        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/premiere.svg"
+        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/premiere.png"
       },
       {
         "name": "Illustrator",
-        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/illustrator.svg"
+        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/illustrator.png"
       },
       {
         "name": "After Effects",
-        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/after-effects.svg"
+        "logo": "https://raw.githubusercontent.com/MS-Solucoes-Digitais/curriculum_gabriel/main/data/imgs/after-effetcs.png"
       }
     ],
     "softSkills": [
